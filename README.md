@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a JavaScript web dev student at [neue fische](https://www.neuefische.de/) 🚀 
-I studied Biology and earned my PhD in Geosciences. My scientific research focused on biogeography and marine biodiversity patterns.
+I studied biology and earned my PhD in geosciences. My scientific research focused on biogeography and marine biodiversity patterns.
 Currently located in Bonn, Germany. 
 
 **Tech Stack in the making:**
