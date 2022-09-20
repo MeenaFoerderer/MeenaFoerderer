@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a JavaScript web dev student at [neue fische](https://www.neuefische.de/) 🚀 
+I'm a JavaScript web dev student at [neue fische](https://www.neuefische.de/) 🚀 </br>
+<img src="https://wordpress.startsteps.org/wp-content/uploads/2022/02/neuefische@2x.png" alt="neue fische image" width="200"/>
 I studied biology and earned my PhD in geosciences. My scientific research focused on biogeography and marine biodiversity patterns.
 Currently located in Bonn, Germany. 
 
@@ -14,18 +15,5 @@ Thanks for visiting and I'd love to connect!
 
 My LinkedIn:arrow_right:
 https://www.linkedin.com/in/meena-f%C3%B6rderer-phd-13532b248/
-<!--
-**MeenaFoerderer/MeenaFoerderer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
