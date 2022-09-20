@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a JavaScript web dev student at [neue fische](https://www.neuefische.de/) 🚀 </br>
-<img src="https://wordpress.startsteps.org/wp-content/uploads/2022/02/neuefische@2x.png" alt="neue fische image" width="200"/>
+[<img src="https://wordpress.startsteps.org/wp-content/uploads/2022/02/neuefische@2x.png" alt="neue fische image" width="200"/> ](https://www.neuefische.de/)</br>
 I studied biology and earned my PhD in geosciences. My scientific research focused on biogeography and marine biodiversity patterns.
 Currently located in Bonn, Germany. 
 
