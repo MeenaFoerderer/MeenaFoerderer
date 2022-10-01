@@ -14,7 +14,7 @@ Currently located in Bonn, Germany.
 
 Thanks for visiting and I'd love to connect!
 
-My LinkedIn:arrow_right:
+My LinkedIn: arrow_right:
 https://www.linkedin.com/in/meena-f%C3%B6rderer-phd-13532b248/
 
 
